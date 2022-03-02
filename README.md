@@ -3,7 +3,7 @@
 Projeto desenvolvido para o evento PicPro ministrado pelos instrutores da Kenzie Academy Brasil em parceria com o PicPay.
 
 ## O projeto
-- [Aolicação](https://fernandanaser.github.io/picpro/)
+- [Aplicação](https://fernandanaser.github.io/picpro/)
 
 ### Estrutura de arquivos
 
